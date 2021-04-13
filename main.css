@@ -1,0 +1,37 @@
+.title {
+    color:  rgb(209, 14, 79);;
+}
+
+.some_text {
+    width: 600px;
+    text-align: justify;
+}
+.navigation {
+    width: 600px;
+    text-align: right;
+}
+.background {
+   background-color: rgb(255, 246, 232);
+}
+table{ 
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.category{
+    text-align: left;
+}
+
+td {
+    border: 1px solid teal;
+}
+.school td {
+
+    background: silver;
+    font-weight: bold;
+}
+td:hover {
+    background: rgb(145, 178, 238);
+    transition: 1s;
+    color:rgb(247, 248, 248)
+}
